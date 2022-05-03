@@ -23,3 +23,8 @@ This and your API response should showup! With no Keys being shown to the user!
 The key is appended to the url as `apiKey` and the API ID is appended to the url as `appID`. If you need to change that it is on line 42 of `index.js`
 
 In the URL `mode` is the part of the url after the base. This can be deleted if needed. 
+
+
+# XML-WEATHER
+
+While building my weather app I needed this for a XML response. I have included the file
